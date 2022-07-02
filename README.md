@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Matheus Emiliano</h1>
 <h3 align="center">FullStack Java</h3>
 
+- 👨‍💻 My Linkedln [https://www.linkedin.com/in/matheusemilianoprogrammer/](https://www.linkedin.com/in/matheusemilianoprogrammer/)
+
 - 💬 Ask me about (Sobre mim) **Gosto de ler, na faculdade descobri que sou fã de programação, e que o mundo de tecnologia e uma das áreas mais apaixonante e pode ser uma grande mãe.(I like to read, in college I discovered that I am a programming fan, and that the world of technology is one of the most exciting areas and I can be a great mother.)**
 
 - 📫 How to reach me **matheusemiliano52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in//in/matheusemilianoprogrammer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/matheusemilianoprogrammer/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
